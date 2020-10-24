@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="background">#f6f5f5</color>
+    <color name="Success">#81b214</color>
+    <color name="Abort">#cd0a0a</color>
+    <color name="btnLogin">#40a8c4</color>
+    <color name="border_input">#07689f</color>
+</resources>
